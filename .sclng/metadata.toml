@@ -2,7 +2,3 @@ dependencies = []
 description = ""
 destination_server = ["app-hosting-node", "internal"]
 flags = ["devops", "global"]
-languages = ["go", "markdown"]
-owner = "leo@scalingo.com"
-team = "IST"
-version = "0.1"
