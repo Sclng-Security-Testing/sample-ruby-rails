@@ -3,3 +3,4 @@ description = ""
 destination_server = ["app-hosting-node", "internal"]
 flags = ["devops", "global"]
 owner = "ok"
+languages = ["ruby"]
