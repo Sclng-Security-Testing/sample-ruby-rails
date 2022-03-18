@@ -7,10 +7,10 @@ updates:
       interval: "monthly"
     reviewers:
       - ""
-   - package-ecosystem: "bundler"
-    directory: "/"
-    versioning-strategy: lockfile-only
-    schedule:
-      interval: "monthly"
-    reviewers:
-      - ""
+  - package-ecosystem: "bundler"
+  directory: "/"
+  versioning-strategy: lockfile-only
+  schedule:
+    interval: "monthly"
+  reviewers:
+    - ""
