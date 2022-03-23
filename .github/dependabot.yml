@@ -4,8 +4,7 @@ updates:
     directory: "/"
     allow:
       - dependency-type: "all"
-    versioning-strategy: lockfile-only
     schedule:
       interval: "monthly"
     reviewers:
-      - "someone"
+      - ""
